@@ -1,0 +1,2 @@
+# NetCore
+NetCore Example
