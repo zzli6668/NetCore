@@ -1,0 +1,14 @@
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.csprojAssemblyReference.cache
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.csproj.CoreCompileInputs.cache
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorAssemblyInfo.cache
+E:\ASPNETCORE\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.deps.json
+E:\ASPNETCORE\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.runtimeconfig.json
+E:\ASPNETCORE\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.runtimeconfig.dev.json
+E:\ASPNETCORE\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.dll
+E:\ASPNETCORE\NetCore\NetCore\bin\Debug\netcoreapp2.1\NetCore.pdb
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorAssemblyInfo.cs
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.AssemblyInfoInputs.cache
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.AssemblyInfo.cs
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.RazorTargetAssemblyInfo.cache
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.dll
+E:\ASPNETCORE\NetCore\NetCore\obj\Debug\netcoreapp2.1\NetCore.pdb
