@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace NetCore.Models
 {
-    public class BookstoreDatabaseSettings : IBusinessDatabaseSettings
+    public class BusinessDatabaseSettings : IBusinessDatabaseSettings
     {
         public string BusinessCollectionName { get; set; }
         public string ConnectionString { get; set; }
