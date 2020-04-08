@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Microsoft.AspNetCore.Cors;
 using NetCore.Models;
 using NetCore.Services;
 
@@ -36,6 +37,8 @@ namespace NetCore
 
             services.AddSingleton<BusinessService>();
 
+            services.AddCors();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -50,8 +53,9 @@ namespace NetCore
             {
                 app.UseHsts();
             }
-
             app.UseHttpsRedirection();
+
+            app.UseCors(options => options.WithOrigins("*").AllowAnyMethod());
             app.UseMvc();
         }
     }
