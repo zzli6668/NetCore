@@ -15,6 +15,7 @@ using NetCore.Services;
 
 namespace NetCore
 {
+    //This is testc!
     public class Startup
     {
         public Startup(IConfiguration configuration)
