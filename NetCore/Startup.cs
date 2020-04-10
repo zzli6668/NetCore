@@ -54,8 +54,12 @@ namespace NetCore
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
-            //add cors, add cors
-            app.UseCors(options => options.WithOrigins("*").AllowAnyMethod());
+
+            app.UseCors(builder => builder
+                         .AllowAnyOrigin()
+                         .AllowAnyMethod()
+                         .AllowAnyHeader()
+                         .AllowCredentials());
             app.UseMvc();
         }
     }
